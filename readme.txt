@@ -6,13 +6,15 @@ Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv3
 
+This plugin records how long it takes to load each page in your client's browser. That way you can identify which pages need improvements in terms of performance.
+
 == Description ==
 
-A simple way to check how long it takes to load each page to your users.
+This plugin records how long it takes to load each page in your client's browser. That way you can identify which pages need improvements in terms of performance.
 
 Features
 
-* Record up to 500 visits
+* Record up to 100 visits
 
 Coming soon
 
@@ -34,6 +36,10 @@ This section describes how to install the plugin and get it working.
 1. Example of records
 
 == Changelog ==
+
+= 1.0.1 =
+* Improved the admin area.
+* Bug fixes.
 
 = 1.0.0 =
 * Initial version.
